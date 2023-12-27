@@ -2,6 +2,7 @@
 
 ## 1. install & import 
 ```
+# pubspec.yaml
 dependencies:
   fl_chart: ^0.66.0
 ```
