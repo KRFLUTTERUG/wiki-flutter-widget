@@ -11,50 +11,40 @@ class MyGap extends StatelessWidget {
       body: Column(
         crossAxisAlignment: CrossAxisAlignment.stretch,
         children: [
-          const Expanded(
-            child: Column(
-              children: [
-                Gap(5),
-                ColoredRectangle(color: Colors.blue),
-                Gap(5),
-                ColoredRectangle(color: Colors.green),
-                Gap(5),
-                ColoredRectangle(color: Colors.yellow),
-              ],
-            ),
+          const Column(
+            children: [
+              Gap(5),
+              ColoredRectangle(color: Colors.blue),
+              Gap(5),
+              ColoredRectangle(color: Colors.green),
+              Gap(5),
+              ColoredRectangle(color: Colors.yellow),
+            ],
           ),
-          const Expanded(
-            child: Row(
-              children: [
-                Gap(5),
-                Expanded(
-                  child: ColoredRectangle(color: Colors.blue),
-                ),
-                Gap(5),
-                Expanded(
-                  child: ColoredRectangle(color: Colors.green),
-                ),
-                Gap(5),
-                Expanded(
-                  child: ColoredRectangle(color: Colors.yellow),
-                ),
-              ],
-            ),
+          const Row(
+            children: [
+              Gap(5),
+              ColoredRectangle(color: Colors.blue),
+              Gap(5),
+              ColoredRectangle(color: Colors.green),
+              Gap(5),
+              ColoredRectangle(color: Colors.yellow),
+            ],
           ),
           Expanded(
             child: ListView(
               children: const [
-                MaxGap(5),
+                Gap(5),
                 ColoredRectangle(color: Colors.blue),
-                MaxGap(5),
+                Gap(5),
                 ColoredRectangle(color: Colors.green),
-                MaxGap(5),
+                Gap(5),
                 ColoredRectangle(color: Colors.yellow),
-                MaxGap(5),
+                Gap(5),
                 ColoredRectangle(color: Colors.blue),
-                MaxGap(5),
+                Gap(5),
                 ColoredRectangle(color: Colors.green),
-                MaxGap(5),
+                Gap(5),
                 ColoredRectangle(color: Colors.yellow),
               ],
             ),
