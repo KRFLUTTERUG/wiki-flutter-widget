@@ -28,3 +28,8 @@
 ## choicechip.dart
 ![choicechip](https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/a4e9ea58-6aa7-4122-b1ac-f25b81a6e467)
 
+# 7. Sliver AppBar Widget
+
+## sliverappbar.dart
+![sliverappbar](https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/ea7c4f92-2560-418d-ade7-27c720454760)
+

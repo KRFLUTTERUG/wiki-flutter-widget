@@ -5,6 +5,7 @@ import 'package:wiki_flutter_examples/widget/20210123/choicechip.dart';
 import 'package:wiki_flutter_examples/widget/20210123/fittedbox.dart';
 import 'package:wiki_flutter_examples/widget/20210123/hero.dart';
 import 'package:wiki_flutter_examples/widget/20210123/showsearch.dart';
+import 'package:wiki_flutter_examples/widget/20210123/sliverappbar.dart';
 import 'package:wiki_flutter_examples/widget/20210123/stepper.dart';
 import 'package:wiki_flutter_examples/widget/20230602/draggable.dart';
 import 'package:wiki_flutter_examples/widget/20231213/gap.dart';
@@ -26,6 +27,6 @@ class MyApp extends StatelessWidget {
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
           useMaterial3: true,
         ),
-        home: const MyChoiceChip());
+        home: const MySliverAppBar());
   }
 }
