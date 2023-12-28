@@ -1,6 +1,6 @@
 # 1. Fl_chart Package
 
-## a. install & import 
+## install & import 
 ```
 # pubspec.yaml
 dependencies:
@@ -10,5 +10,5 @@ dependencies:
 import 'package:fl_chart/fl_chart.dart';
 ```
 
-## b. fl_chart.dart
+## fl_chart.dart
 ![image](https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/dc2d2bd6-3c5f-4f6e-a923-2fbc5340d6e3)

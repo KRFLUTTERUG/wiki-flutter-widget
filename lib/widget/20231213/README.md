@@ -1,6 +1,6 @@
 # 1. Gap Widget
 
-## a. install & import
+## install & import
 ```
 # pubspec.yaml
 dependencies:
@@ -10,10 +10,10 @@ dependencies:
 import 'package:gap/gap.dart';
 ```
 
-## b. gap.dart
+## gap.dart
 ![image](https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/d986492e-480a-47ea-8006-22dde947a3b2)
 
 # 2. Overlay Portal Widget
 
-## a. overlayportal.dart
+## overlayportal.dart
 ![image](https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/4cc5b66e-8af8-4f82-8f87-12383ad19c90)
