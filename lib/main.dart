@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:wiki_flutter_examples/package/20231025/fl_chart.dart';
+import 'package:wiki_flutter_examples/widget/20210123/stepper.dart';
 import 'package:wiki_flutter_examples/widget/20230602/draggable.dart';
 import 'package:wiki_flutter_examples/widget/20231213/gap.dart';
 import 'package:wiki_flutter_examples/widget/20231213/overlayportal.dart';
@@ -20,6 +21,6 @@ class MyApp extends StatelessWidget {
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
           useMaterial3: true,
         ),
-        home: const MyDraggable());
+        home: const MyStepper());
   }
 }
