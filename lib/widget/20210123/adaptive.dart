@@ -1,6 +1,10 @@
 import 'package:flutter/material.dart';
 
-// Android 와 IOS를 다르게 반영할 수 있게 함
+/*
+* Adaptive 위젯 : Flutter에서 플랫폼에 맞게 위젯을 조정하는 데 사용
+* 앱이 iOS와 Android와 같은 여러 플랫폼에서 일관된 사용자 경험을 제공
+* */
+
 class MyAdaptive extends StatefulWidget {
   const MyAdaptive({super.key});
 
