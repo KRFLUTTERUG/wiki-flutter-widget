@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:wiki_flutter_examples/package/20231025/fl_chart.dart';
 import 'package:wiki_flutter_examples/widget/20210123/adaptive.dart';
 import 'package:wiki_flutter_examples/widget/20210123/fittedbox.dart';
+import 'package:wiki_flutter_examples/widget/20210123/hero.dart';
 import 'package:wiki_flutter_examples/widget/20210123/showsearch.dart';
 import 'package:wiki_flutter_examples/widget/20210123/stepper.dart';
 import 'package:wiki_flutter_examples/widget/20230602/draggable.dart';
@@ -24,6 +25,6 @@ class MyApp extends StatelessWidget {
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
           useMaterial3: true,
         ),
-        home: const MyShowSearch());
+        home: const MyHero());
   }
 }
