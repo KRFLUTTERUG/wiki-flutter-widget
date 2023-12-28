@@ -20,7 +20,7 @@ class _MyFittedBoxState extends State<MyFittedBox> {
           height: 150,
           color: Colors.red,
           padding: const EdgeInsets.all(10.0),
-          child: const FittedBox(
+          child: const FittedBox( // Text 대신 사용하여 부모의 크기에 맞게 끔
             child: Text(
               'FLUTTER MAP',
               style: TextStyle(
