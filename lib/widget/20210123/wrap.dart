@@ -25,7 +25,7 @@ class _MyWrapState extends State<MyWrap> {
         title: Text('Wrap'),
       ),
       body: Center(
-        child: Row( // 기존의 Row를 Wrap으로!
+        child: Wrap( // 기존의 Row를 Wrap으로!
           children: _list,
         ),
       ),
