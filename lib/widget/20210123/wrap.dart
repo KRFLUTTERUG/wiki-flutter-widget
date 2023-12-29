@@ -11,7 +11,7 @@ class _MyWrapState extends State<MyWrap> {
   @override
   Widget build(BuildContext context) {
     Widget _image = Padding(
-      padding: EdgeInsets.all(8.0),
+      padding: const EdgeInsets.all(8.0),
       child: Image.asset(
         'images/mountains.jpg',
         height: 100,
@@ -22,7 +22,7 @@ class _MyWrapState extends State<MyWrap> {
     List<Widget> _list = [_image, _image, _image, _image, _image];
     return Scaffold(
       appBar: AppBar(
-        title: Text('Wrap'),
+        title: const Text('Wrap'),
       ),
       body: Center(
         child: Wrap( // 기존의 Row를 Wrap으로!

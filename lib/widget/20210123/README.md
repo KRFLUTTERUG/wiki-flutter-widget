@@ -33,3 +33,7 @@
 ## sliverappbar.dart
 ![sliverappbar](https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/ea7c4f92-2560-418d-ade7-27c720454760)
 
+# 7. Wrap Widget
+
+## wrap.dart
+![image](https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/43025abd-558d-4dd9-af20-b6093aee4bfb)
