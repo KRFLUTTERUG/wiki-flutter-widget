@@ -28,6 +28,7 @@
   - GridPaper
   - Hero
   - Inkwell
+  - InteractiveViewer
   - PageView
   - PopupMenuButton
   - Positioned

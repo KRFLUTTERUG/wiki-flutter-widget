@@ -153,3 +153,8 @@
 ## inkwell.dart
 <img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/94c4a5b3-493c-432b-aa8c-3a2db7a88c93">
 
+# 32. Interactive Viewer Widget
+
+## interactiveviewer.dart
+<img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/5c0d8b11-1a90-4322-b08c-22b71b3285a6">
+<img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/0e725418-7012-4751-bbe9-51509f433d49">
