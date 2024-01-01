@@ -122,3 +122,8 @@
 
 ## spreadoperator.dart
 <img width="613" alt="image" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/66e18489-044b-4dcd-bff0-b748d72379a6">
+
+# 26. Stack Widget
+
+## stack.dart
+<img width="613" alt="image" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/ef1729b0-4f92-4892-b69d-6834c014167f">

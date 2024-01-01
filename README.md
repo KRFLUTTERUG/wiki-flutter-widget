@@ -34,6 +34,7 @@
   - ShowTimePicker
   - SliverAppBar
   - SpreadOperator
+  - Stack
   - Stepper
   - Tooltip
   - Visibility
