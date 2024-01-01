@@ -97,3 +97,8 @@
 
 ## flexible.dart
 <img width="712" alt="image" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/6112adc8-da50-4cab-9dde-6f9640d32248">
+
+# 21. Will Pop Scope Widget / PopScope
+
+## willpopscope.dart
+![popscope](https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/85dcfdb8-7190-4e93-b41e-faeb1f5a8c49)

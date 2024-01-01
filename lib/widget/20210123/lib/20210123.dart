@@ -17,4 +17,5 @@ export '../showtimepicker.dart';
 export '../sliverappbar.dart';
 export '../stepper.dart';
 export '../visibility.dart';
+export '../willpopscope.dart';
 export '../wrap.dart';
