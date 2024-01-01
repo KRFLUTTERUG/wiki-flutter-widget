@@ -12,6 +12,7 @@ import 'package:wiki_flutter_examples/widget/20210123/showsearch.dart';
 import 'package:wiki_flutter_examples/widget/20210123/showtimepicker.dart';
 import 'package:wiki_flutter_examples/widget/20210123/sliverappbar.dart';
 import 'package:wiki_flutter_examples/widget/20210123/stepper.dart';
+import 'package:wiki_flutter_examples/widget/20210123/visibility.dart';
 import 'package:wiki_flutter_examples/widget/20210123/wrap.dart';
 import 'package:wiki_flutter_examples/widget/20230602/draggable.dart';
 import 'package:wiki_flutter_examples/widget/20231213/gap.dart';
@@ -33,6 +34,6 @@ class MyApp extends StatelessWidget {
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
           useMaterial3: true,
         ),
-        home: const MyRangeSlider());
+        home: const MyVisibility());
   }
 }

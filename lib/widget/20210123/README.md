@@ -62,3 +62,8 @@
 
 ## rangeslider.dart
 ![rangeslider](https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/584e9bc9-952e-48a2-a679-663bac0f0dee)
+
+# 14. Visibility Widget
+
+## visibility.dart
+![visibility](https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/90c4a413-e519-4062-85ab-53e0c9b5cdfe)
