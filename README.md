@@ -14,8 +14,32 @@
 
 ### Widget Inventory
 - 20210123 [Youtube Link](https://www.youtube.com/watch?v=M9J-JJOuyE0)
-- 20230602 [Youtube Link](https://www.youtube.com/watch?v=q4x2G_9-Mu0)
+  - Adaptive
+  - AnimatedCrossFade
+  - BottomNavigationBar
+  - ChoiceChip
+  - Expanded
+  - ExpansionTile
+  - FittedBox
+  - Flexible
+  - FutureBuilder
+  - GridPaper
+  - Hero
+  - PageView
+  - PopupMenuButton
+  - RangeSlider
+  - ShowDatePicker
+  - ShowModalBottomSheet
+  - ShowSearch
+  - ShowTimePicker
+  - SliverAppBar
+  - Stepper
+  - Visibility
+  - WillPopScope/PopScope
+  - Wrap
+- 20230602 
+  - Draggable [Youtube Link](https://www.youtube.com/watch?v=q4x2G_9-Mu0)
 - 20231213 
-  - gap.dart [Youtube Link](https://www.youtube.com/watch?v=MqjCIITfCIA)
-  - overlayportal [Youtube Link](https://www.youtube.com/watch?v=S0Ylpa44OAQ)
+  - Gap [Youtube Link](https://www.youtube.com/watch?v=MqjCIITfCIA)
+  - OverlayPortal [Youtube Link](https://www.youtube.com/watch?v=S0Ylpa44OAQ)
 
