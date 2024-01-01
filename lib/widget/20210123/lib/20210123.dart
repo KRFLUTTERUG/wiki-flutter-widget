@@ -18,6 +18,7 @@ export '../showsearch.dart';
 export '../showtimepicker.dart';
 export '../sliverappbar.dart';
 export '../stepper.dart';
+export '../tooltip.dart';
 export '../visibility.dart';
 export '../willpopscope.dart';
 export '../wrap.dart';
