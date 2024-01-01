@@ -5,6 +5,7 @@ export '../choicechip.dart';
 export '../expanded.dart';
 export '../expansiontile.dart';
 export '../fittedbox.dart';
+export '../flexible.dart';
 export '../hero.dart';
 export '../pageview.dart';
 export '../popupmenubutton.dart';

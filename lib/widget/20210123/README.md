@@ -93,3 +93,7 @@
 ## expanded.dart
 ![image](https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/c3828e05-f479-4c3f-a364-480a2e8feddc)
 
+# 20. Flexible Widget
+
+## flexible.dart
+<img width="712" alt="image" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/6112adc8-da50-4cab-9dde-6f9640d32248">
