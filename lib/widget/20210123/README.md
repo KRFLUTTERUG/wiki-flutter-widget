@@ -117,3 +117,8 @@
 
 ## tooltip.dart
 <img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/677a3648-98c2-4bda-a1ff-a6480be5bca4">
+
+# 25. Spread Operator Widget
+
+## spreadoperator.dart
+<img width="613" alt="image" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/66e18489-044b-4dcd-bff0-b748d72379a6">

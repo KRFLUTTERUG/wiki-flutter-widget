@@ -17,6 +17,7 @@ export '../showmodalbottomsheet.dart';
 export '../showsearch.dart';
 export '../showtimepicker.dart';
 export '../sliverappbar.dart';
+export '../spreadoperator.dart';
 export '../stepper.dart';
 export '../tooltip.dart';
 export '../visibility.dart';
