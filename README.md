@@ -34,6 +34,7 @@
   - PopupMenuButton
   - Positioned
   - RangeSlider
+  - SelectableText
   - ShowDatePicker
   - ShowModalBottomSheet
   - ShowSearch

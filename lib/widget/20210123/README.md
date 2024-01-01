@@ -163,3 +163,8 @@
 
 ## checkboxlisttile.dart
 <img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/f7512b28-5567-43fd-adbc-e1d840018a90">
+
+# 34. Selectable Text Widget
+
+## selectabletext.dart
+<img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/6c5782fe-677d-4142-8ef2-22f9e139e90c">

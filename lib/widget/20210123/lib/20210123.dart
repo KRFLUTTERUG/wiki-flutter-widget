@@ -18,6 +18,7 @@ export '../pageview.dart';
 export '../popupmenubutton.dart';
 export '../positioned.dart';
 export '../rangeslider.dart';
+export '../selectabletext.dart';
 export '../showdatepicker.dart';
 export '../showmodalbottomsheet.dart';
 export '../showsearch.dart';
