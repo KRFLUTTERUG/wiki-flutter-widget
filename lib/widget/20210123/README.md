@@ -138,3 +138,7 @@
 ## alertdialog.dart
 <img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/7ef073e6-603c-4d70-83a3-4d9333ff523f">
 
+# 29. Table Widget
+
+## table.dart
+<img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/7eba7577-9f21-411f-8bda-0bcd6a12775f)">

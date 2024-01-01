@@ -38,6 +38,7 @@
   - SpreadOperator
   - Stack
   - Stepper
+  - Table
   - Tooltip
   - Visibility
   - WillPopScope/PopScope

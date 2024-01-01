@@ -22,6 +22,7 @@ export '../sliverappbar.dart';
 export '../spreadoperator.dart';
 export '../stack.dart';
 export '../stepper.dart';
+export '../table.dart';
 export '../tooltip.dart';
 export '../visibility.dart';
 export '../willpopscope.dart';
