@@ -6,6 +6,7 @@ import 'package:wiki_flutter_examples/widget/20210123/choicechip.dart';
 import 'package:wiki_flutter_examples/widget/20210123/expansiontile.dart';
 import 'package:wiki_flutter_examples/widget/20210123/fittedbox.dart';
 import 'package:wiki_flutter_examples/widget/20210123/hero.dart';
+import 'package:wiki_flutter_examples/widget/20210123/pageview.dart';
 import 'package:wiki_flutter_examples/widget/20210123/popupmenubutton.dart';
 import 'package:wiki_flutter_examples/widget/20210123/rangeslider.dart';
 import 'package:wiki_flutter_examples/widget/20210123/showdatepicker.dart';
@@ -35,6 +36,6 @@ class MyApp extends StatelessWidget {
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
           useMaterial3: true,
         ),
-        home: const MyBottomNavigationBar());
+        home: const MyPageView());
   }
 }
