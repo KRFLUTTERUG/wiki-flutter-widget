@@ -18,14 +18,22 @@ class _MyFlexibleState extends State<MyFlexible> {
         child: Column(
           children: [
             Flexible(
+              flex: 4,
+                fit: FlexFit.tight,
                 child: Container(
-              color: Colors.blue,
-            )),
+                  height: 50,
+                  color: Colors.blue,
+                )),
             Flexible(
+                flex: 1,
+                fit: FlexFit.tight,
                 child: Container(
+              height: 150,
               color: Colors.orange,
             )),
             Flexible(
+                flex: 1,
+                fit: FlexFit.tight,
                 child: Container(
               height: 150,
               color: Colors.red,
