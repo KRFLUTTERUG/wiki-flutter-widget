@@ -16,7 +16,7 @@
 # 4. Adaptive Widget
 
 ## adaptive.dart
-<img height="24%" width="24%" alt="image" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/46f31b2c-abec-4e49-a3e7-ab9c28471a7a">
+<img height="50%" width="50%" alt="image" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/46f31b2c-abec-4e49-a3e7-ab9c28471a7a">
 
 # 5. Hero Widget
 
