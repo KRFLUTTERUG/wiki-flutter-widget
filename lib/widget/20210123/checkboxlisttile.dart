@@ -14,11 +14,11 @@ class _MyCheckboxListTileState extends State<MyCheckboxListTile> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Checkbox List Tile'),
+        title: const Text('Checkbox List Tile'),
       ),
       body: Column(children: [
         CheckboxListTile(
-          title: Text('Checkbox List Tile'),
+          title: const Text('Checkbox List Tile'),
           value: _isChecked,
           onChanged: (bool? newValue) {
             setState(() {
@@ -29,7 +29,7 @@ class _MyCheckboxListTileState extends State<MyCheckboxListTile> {
           checkColor: Colors.lightGreen,
         ),
         CheckboxListTile(
-          title: Text('Checkbox List Tile 2'),
+          title: const Text('Checkbox List Tile 2'),
           value: _isChecked2,
           onChanged: (bool? newValue) {
             setState(() {
@@ -41,6 +41,7 @@ class _MyCheckboxListTileState extends State<MyCheckboxListTile> {
           controlAffinity: ListTileControlAffinity.leading,
           tileColor: Colors.lightBlueAccent,
           tristate: true,
+          subtitle: const Text('Subtitle'),
         ),
       ]),
     );
