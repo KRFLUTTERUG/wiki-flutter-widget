@@ -5,6 +5,8 @@ import 'package:wiki_flutter_examples/widget/20230602/draggable.dart';
 import 'package:wiki_flutter_examples/widget/20231213/gap.dart';
 import 'package:wiki_flutter_examples/widget/20231213/overlayportal.dart';
 
+import 'package/20231011/userprovider/main_userprovider.dart';
+
 void main() {
   runApp(const MyApp());
 }
@@ -21,6 +23,6 @@ class MyApp extends StatelessWidget {
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
           useMaterial3: true,
         ),
-        home: const MySelectableText());
+        home: const MainUserProvider());
   }
 }

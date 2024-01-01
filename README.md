@@ -6,8 +6,14 @@
 - lib/package
 
 ### Package Inventory
+- 20231011 [Youtube Link](https://www.youtube.com/watch?v=PkPAtfNNJX8)
+  - provider [pub.dev.provider](https://pub.dev/packages/provider)
+    - 9298 Like / 140 Pub Points / 100% Popularity
+    - UserProviderExample
+    - CounterProviderExample
 - 20231025 [Youtube Link](https://www.youtube.com/watch?v=PkPAtfNNJX8)
-  - fl_chart.dart
+  - fl_chart [pub.dev.fl_chart](https://pub.dev/packages/fl_chart)
+    - 5091 Like / 140 Pub Points / 100% Popularity
 
 ## Widget
 - lib/widget
