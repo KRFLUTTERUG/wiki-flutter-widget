@@ -87,3 +87,9 @@
 
 ## animatedcrossfade.dart
 ![animatedcrossfade](https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/7a808b5e-6d1a-4f4d-8a66-9341d8bb3697)
+
+# 19. Expanded Widget
+
+## expanded.dart
+![image](https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/c3828e05-f479-4c3f-a364-480a2e8feddc)
+

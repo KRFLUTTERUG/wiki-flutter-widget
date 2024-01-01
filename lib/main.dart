@@ -4,6 +4,7 @@ import 'package:wiki_flutter_examples/widget/20210123/adaptive.dart';
 import 'package:wiki_flutter_examples/widget/20210123/animatedcrossfade.dart';
 import 'package:wiki_flutter_examples/widget/20210123/bottomnavigationbar.dart';
 import 'package:wiki_flutter_examples/widget/20210123/choicechip.dart';
+import 'package:wiki_flutter_examples/widget/20210123/expanded.dart';
 import 'package:wiki_flutter_examples/widget/20210123/expansiontile.dart';
 import 'package:wiki_flutter_examples/widget/20210123/fittedbox.dart';
 import 'package:wiki_flutter_examples/widget/20210123/hero.dart';
@@ -38,6 +39,6 @@ class MyApp extends StatelessWidget {
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
           useMaterial3: true,
         ),
-        home: const MyAnimatedCrossFade());
+        home: const MyExpanded());
   }
 }
