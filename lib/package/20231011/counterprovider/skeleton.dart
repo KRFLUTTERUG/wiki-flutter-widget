@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_native_splash/flutter_native_splash.dart';
 import 'package:wiki_flutter_examples/package/20231011/counterprovider/pages/challenge_page.dart';
 import 'package:wiki_flutter_examples/package/20231011/counterprovider/pages/home_page.dart';
 
@@ -11,6 +12,11 @@ class Skeleton extends StatefulWidget {
 }
 
 class _SkeletonState extends State<Skeleton> {
+  @override
+  void initState() {
+    super.initState();
+    initialization();
+  }
   int _selectedIndex = 0;
   static const List<Widget> _pages = <Widget>[
     HomePage(),
@@ -42,6 +48,15 @@ class _SkeletonState extends State<Skeleton> {
         },
       ),
     );
+  }
+
+  void initialization() async {
+    print('ready in 2...');
+    await Future.delayed(const Duration(seconds: 1));
+    print('ready in 1...');
+    await Future.delayed(const Duration(seconds: 1));
+    print('go!');
+    FlutterNativeSplash.remove();
   }
 }
 
