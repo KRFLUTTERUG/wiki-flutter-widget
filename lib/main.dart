@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:wiki_flutter_examples/package/20231025/fl_chart.dart';
 import 'package:wiki_flutter_examples/widget/20210123/adaptive.dart';
+import 'package:wiki_flutter_examples/widget/20210123/bottomnavigationbar.dart';
 import 'package:wiki_flutter_examples/widget/20210123/choicechip.dart';
 import 'package:wiki_flutter_examples/widget/20210123/expansiontile.dart';
 import 'package:wiki_flutter_examples/widget/20210123/fittedbox.dart';
@@ -34,6 +35,6 @@ class MyApp extends StatelessWidget {
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
           useMaterial3: true,
         ),
-        home: const MyVisibility());
+        home: const MyBottomNavigationBar());
   }
 }

@@ -67,3 +67,8 @@
 
 ## visibility.dart
 ![visibility](https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/90c4a413-e519-4062-85ab-53e0c9b5cdfe)
+
+# 15. Bottom Navigation Bar Widget
+
+## bottomnavigationbar.dart
+![bottomnavigationbar](https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/11251526-1a79-4322-9f50-150735ec7fd3)
