@@ -33,7 +33,9 @@
   - ShowSearch
   - ShowTimePicker
   - SliverAppBar
+  - SpreadOperator
   - Stepper
+  - Tooltip
   - Visibility
   - WillPopScope/PopScope
   - Wrap
