@@ -58,3 +58,7 @@
 ## popupmenubutton.dart
 ![popupmenubutton](https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/371a1aa8-22e2-49ed-91d7-f402583dae61)
 
+# 13. Range Slider Widget
+
+## rangeslider.dart
+![rangeslider](https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/584e9bc9-952e-48a2-a679-663bac0f0dee)
