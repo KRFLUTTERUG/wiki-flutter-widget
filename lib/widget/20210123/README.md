@@ -102,3 +102,8 @@
 
 ## willpopscope.dart
 ![popscope](https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/85dcfdb8-7190-4e93-b41e-faeb1f5a8c49)
+
+# 22. Future Builder Widget
+
+## futurebuilder.dart
+![futurebuilder](https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/85b02c04-dd9e-488e-8fbe-83f7a249e081)
