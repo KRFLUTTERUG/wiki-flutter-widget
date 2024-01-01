@@ -10,6 +10,7 @@ import 'package:wiki_flutter_examples/widget/20210123/pageview.dart';
 import 'package:wiki_flutter_examples/widget/20210123/popupmenubutton.dart';
 import 'package:wiki_flutter_examples/widget/20210123/rangeslider.dart';
 import 'package:wiki_flutter_examples/widget/20210123/showdatepicker.dart';
+import 'package:wiki_flutter_examples/widget/20210123/showmodalbottomsheet.dart';
 import 'package:wiki_flutter_examples/widget/20210123/showsearch.dart';
 import 'package:wiki_flutter_examples/widget/20210123/showtimepicker.dart';
 import 'package:wiki_flutter_examples/widget/20210123/sliverappbar.dart';
@@ -36,6 +37,6 @@ class MyApp extends StatelessWidget {
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
           useMaterial3: true,
         ),
-        home: const MyPageView());
+        home: const MyShowModalBottomSheet());
   }
 }
