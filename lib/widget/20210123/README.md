@@ -126,4 +126,9 @@
 # 26. Stack Widget
 
 ## stack.dart
-<img width="613" alt="image" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/ef1729b0-4f92-4892-b69d-6834c014167f">
+<img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/ef1729b0-4f92-4892-b69d-6834c014167f">
+
+# 27. Positioned Widget
+
+## positioned.dart
+<img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/ebd83777-0a6f-4431-809c-e3cbb4d7487d">
