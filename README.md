@@ -15,6 +15,7 @@
 ### Widget Inventory
 - 20210123 [Youtube Link](https://www.youtube.com/watch?v=M9J-JJOuyE0)
   - Adaptive
+  - AlertDialog
   - AnimatedCrossFade
   - BottomNavigationBar
   - ChoiceChip

@@ -132,3 +132,9 @@
 
 ## positioned.dart
 <img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/ebd83777-0a6f-4431-809c-e3cbb4d7487d">
+
+# 28. Alert Dialog Widget
+
+## alertdialog.dart
+<img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/7ef073e6-603c-4d70-83a3-4d9333ff523f">
+

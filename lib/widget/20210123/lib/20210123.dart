@@ -1,4 +1,5 @@
 export '../adaptive.dart';
+export '../alertdialog.dart';
 export '../animatedcrossfade.dart';
 export '../bottomnavigationbar.dart';
 export '../choicechip.dart';
