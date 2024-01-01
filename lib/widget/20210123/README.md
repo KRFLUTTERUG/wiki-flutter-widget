@@ -141,4 +141,10 @@
 # 29. Table Widget
 
 ## table.dart
-<img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/7eba7577-9f21-411f-8bda-0bcd6a12775f)">
+<img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/7eba7577-9f21-411f-8bda-0bcd6a12775f">
+
+# 30. Gesture Detector Widget
+
+## gesturedetector.dart
+<img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/e1ca7b29-9949-481d-a0fb-8435c03160d2">
+

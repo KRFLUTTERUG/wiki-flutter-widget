@@ -24,6 +24,7 @@
   - FittedBox
   - Flexible
   - FutureBuilder
+  - GestureDetector
   - GridPaper
   - Hero
   - PageView
