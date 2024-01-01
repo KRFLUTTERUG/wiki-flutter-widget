@@ -7,6 +7,7 @@ export '../expansiontile.dart';
 export '../fittedbox.dart';
 export '../flexible.dart';
 export '../futurebuilder.dart';
+export '../gridpaper.dart';
 export '../hero.dart';
 export '../pageview.dart';
 export '../popupmenubutton.dart';
