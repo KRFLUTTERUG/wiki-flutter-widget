@@ -158,3 +158,8 @@
 ## interactiveviewer.dart
 <img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/5c0d8b11-1a90-4322-b08c-22b71b3285a6">
 <img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/0e725418-7012-4751-bbe9-51509f433d49">
+
+# 33. Checkbox List Tile Widget
+
+## checkboxlisttile.dart
+<img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/f7512b28-5567-43fd-adbc-e1d840018a90">

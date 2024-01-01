@@ -2,6 +2,7 @@ export '../adaptive.dart';
 export '../alertdialog.dart';
 export '../animatedcrossfade.dart';
 export '../bottomnavigationbar.dart';
+export '../checkboxlisttile.dart';
 export '../choicechip.dart';
 export '../expanded.dart';
 export '../expansiontile.dart';

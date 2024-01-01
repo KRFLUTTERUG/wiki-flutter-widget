@@ -18,6 +18,7 @@
   - AlertDialog
   - AnimatedCrossFade
   - BottomNavigationBar
+  - CheckboxListTile
   - ChoiceChip
   - Expanded
   - ExpansionTile
