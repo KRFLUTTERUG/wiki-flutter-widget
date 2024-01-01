@@ -27,6 +27,7 @@
   - GestureDetector
   - GridPaper
   - Hero
+  - Inkwell
   - PageView
   - PopupMenuButton
   - Positioned

@@ -148,3 +148,8 @@
 ## gesturedetector.dart
 <img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/e1ca7b29-9949-481d-a0fb-8435c03160d2">
 
+# 31. Inkwell Widget
+
+## inkwell.dart
+<img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/94c4a5b3-493c-432b-aa8c-3a2db7a88c93">
+

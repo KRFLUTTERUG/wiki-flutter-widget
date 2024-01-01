@@ -11,6 +11,7 @@ export '../futurebuilder.dart';
 export '../gesturedetector.dart';
 export '../gridpaper.dart';
 export '../hero.dart';
+export '../inkwell.dart';
 export '../pageview.dart';
 export '../popupmenubutton.dart';
 export '../positioned.dart';
