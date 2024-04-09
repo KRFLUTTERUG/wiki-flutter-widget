@@ -1,0 +1,40 @@
+name: wiki_flutter_examples
+description: "Wiki for Flutter Widgets"
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  gap: ^3.0.1
+  fl_chart: ^0.66.0
+  provider: ^6.1.1
+  flutter_native_splash: ^2.3.9
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - images/mountains.jpg
+    - images/milkyway.jpg
+    - images/angry_dog.png
+    - images/panda.png
+    - images/cloning/spotify/
+    - images/cloning/spotify/home/
+
+flutter_native_splash:
+  color: "#42a5f5"
