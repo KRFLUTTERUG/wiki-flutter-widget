@@ -8,6 +8,7 @@ import 'package:wiki_flutter_examples/widget/20231213/lib/20231213.dart';
 import 'cloning/spotify/data/model/album.dart';
 import 'cloning/spotify/data/model/album_track.dart';
 import 'cloning/spotify/ui/album_control_screen.dart';
+import 'cloning/spotify/ui/album_radio_screen.dart';
 import 'package/20231011/counterprovider/main_counterprovider.dart';
 import 'package/20231011/userprovider/main_userprovider.dart';
 
@@ -44,6 +45,6 @@ class MyApp extends StatelessWidget {
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
           useMaterial3: true,
         ),
-        home: AlbumControlScreen(album: dummyAlbum,));
+        home: AlbumRadioScreen());
   }
 }
