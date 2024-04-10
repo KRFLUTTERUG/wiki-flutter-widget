@@ -19,6 +19,12 @@ dependencies:
   flutter_native_splash: ^2.3.9
   sign_in_with_apple: ^5.0.0
   http: ^1.2.0
+  flutter_bloc: ^8.1.5
+  get_it: ^7.6.7
+  video_player: ^2.8.2
+  animations: ^2.0.11
+  auto_size_text: ^3.0.0
+  flutter_barcode_scanner: ^2.0.0
   
 dev_dependencies:
   flutter_test:
@@ -34,6 +40,24 @@ flutter:
     - images/milkyway.jpg
     - images/angry_dog.png
     - images/panda.png
+    - images/cloning/spotify/
+    - images/cloning/spotify/home/
+    - images/cloning/spotify/artists/
+    - images/cloning/spotify/podcasts/
+    - images/cloning/spotify/2010/
+    - images/cloning/spotify/drake mix/
+    - images/cloning/spotify/upbeat/
+    - images/cloning/spotify/chill/
+    - assets/video/
+
+  fonts:
+    - family: AM
+      fonts:
+        - asset: assets/fonts/Avenir Medium.ttf
+
+    - family: AB
+      fonts:
+        - asset: assets/fonts/Avenir Next LT Pro Bold.otf
 
 flutter_native_splash:
   color: "#42a5f5"
