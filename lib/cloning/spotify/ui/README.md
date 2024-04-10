@@ -33,5 +33,7 @@
 ## lyrics_screen.dart
 <img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/89abe991-9936-46ec-a56a-c702eec589fc">
 
+# 8. Track View
 
-
+## track_view_screen.dart
+<img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/2139def7-0096-4fff-b9cb-c0be318b963a">

@@ -14,6 +14,7 @@ import 'cloning/spotify/ui/album_radio_screen.dart';
 import 'cloning/spotify/ui/albumview_screen.dart';
 import 'cloning/spotify/ui/listening_on_screen.dart';
 import 'cloning/spotify/ui/lyrics_screen.dart';
+import 'cloning/spotify/ui/track_view_screen.dart';
 import 'package/20231011/counterprovider/main_counterprovider.dart';
 import 'package/20231011/userprovider/main_userprovider.dart';
 
@@ -55,6 +56,6 @@ class MyApp extends StatelessWidget {
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
           useMaterial3: true,
         ),
-        home: LyricsScreen(),);
+        home: TrackViewScreen(),);
   }
 }

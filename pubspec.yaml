@@ -19,7 +19,7 @@ dependencies:
   flutter_native_splash: ^2.3.9
   flutter_bloc: ^8.1.5
   get_it: ^7.6.7
-  video_player: ^2.8.5
+  video_player: ^2.8.2
   animations: ^2.0.11
   
 dev_dependencies:
@@ -39,6 +39,17 @@ flutter:
     - images/panda.png
     - images/cloning/spotify/
     - images/cloning/spotify/home/
+    - images/cloning/spotify/artists/
+    - assets/video/
+
+  fonts:
+    - family: AM
+      fonts:
+        - asset: assets/fonts/Avenir Medium.ttf
+
+    - family: AB
+      fonts:
+        - asset: assets/fonts/Avenir Next LT Pro Bold.otf
 
 flutter_native_splash:
   color: "#42a5f5"
