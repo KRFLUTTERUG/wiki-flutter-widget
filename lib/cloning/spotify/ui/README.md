@@ -33,6 +33,11 @@
 ## choose_artist_screen.dart
 <img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/fd8276ad-d83f-42b6-879f-28fab533ec7b">
 
+# 8. Choose Podcast
+
+## choose_podcast_screen.dart
+<img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/01469bd6-0011-4d0d-ad61-c24b235dbd12">
+
 # 3. Album Control
 
 ## album_control_screen.dart
