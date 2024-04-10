@@ -9,11 +9,13 @@ import 'package:wiki_flutter_examples/widget/20231213/lib/20231213.dart';
 
 import 'cloning/spotify/data/model/album.dart';
 import 'cloning/spotify/data/model/album_track.dart';
+import 'cloning/spotify/di/service_locator.dart';
 import 'cloning/spotify/ui/album_control_screen.dart';
 import 'cloning/spotify/ui/album_radio_screen.dart';
 import 'cloning/spotify/ui/albumview_screen.dart';
 import 'cloning/spotify/ui/listening_on_screen.dart';
 import 'cloning/spotify/ui/lyrics_screen.dart';
+import 'cloning/spotify/ui/splash_screen.dart';
 import 'cloning/spotify/ui/track_view_screen.dart';
 import 'package/20231011/counterprovider/main_counterprovider.dart';
 import 'package/20231011/userprovider/main_userprovider.dart';
@@ -22,6 +24,7 @@ void main() {
   // Test 시 아래 2줄은 주석 처리 필요
   // WidgetsBinding widgetsBinding = WidgetsFlutterBinding.ensureInitialized();
   // FlutterNativeSplash.preserve(widgetsBinding: widgetsBinding);
+  initServiceLocator();
   runApp(const MyApp());
 }
 
@@ -50,12 +53,19 @@ class MyApp extends StatelessWidget {
     String dummySinger = "Dummy Singer";
     String dummyAlbumImage = "Offset-Mix.jpg";
 
+    // return MaterialApp(
+    //     title: 'Widget Examples',
+    //     theme: ThemeData(
+    //       colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+    //       useMaterial3: true,
+    //     ),
+    //     home: AlbumViewScreen(),);
     return MaterialApp(
-        title: 'Widget Examples',
-        theme: ThemeData(
-          colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
-          useMaterial3: true,
-        ),
-        home: TrackViewScreen(),);
+      theme: ThemeData(
+        splashColor: Colors.transparent,
+      ),
+      debugShowCheckedModeBanner: false,
+      home: const SplashScreen(),
+    );
   }
 }
