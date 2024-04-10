@@ -36,4 +36,4 @@
 # 8. Track View
 
 ## track_view_screen.dart
-<img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/2139def7-0096-4fff-b9cb-c0be318b963a">
+<img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/4627744b-92ea-4fdd-9f1c-596bb9e8cf3d">
