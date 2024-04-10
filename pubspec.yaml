@@ -27,6 +27,8 @@ dependencies:
   flutter_barcode_scanner: ^2.0.0
   flutter_hooks: ^0.18.2
   hooks_riverpod: ^1.0.3
+  simple_animations: ^5.0.2
+  get: ^4.6.5
   
 dev_dependencies:
   flutter_test:
