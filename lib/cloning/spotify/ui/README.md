@@ -8,6 +8,11 @@
 ## onboarding_screen.dart
 <img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/416a7582-0b8d-4124-bccb-fc2fef05a097">
 
+# 3. Create Email
+
+## create_email_screen.dart
+<img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/a7aa77b8-0f98-4a4b-b814-c12aee49f85c">
+
 # 3. Album Control
 
 ## album_control_screen.dart
