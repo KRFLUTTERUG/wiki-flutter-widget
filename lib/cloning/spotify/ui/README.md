@@ -38,3 +38,7 @@
 ## track_view_screen.dart
 <img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/cb08880a-3751-4377-afc9-48da28abdd89">
 
+# 9. Splash
+
+## splash_screen.dart
+<img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/8a52fe61-6f40-4a80-b36d-832be459f14d">
