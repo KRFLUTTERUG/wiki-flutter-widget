@@ -48,6 +48,11 @@
 ## playlist_search_screen.dart
 <img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/4e392269-2488-45e3-a87b-d272be5ca81a">
 
+# 11. Search Category
+
+## search_category_screen.dart
+<img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/35614204-5210-4598-98a9-9623cd6fb6ed">
+
 # 3. Album Control
 
 ## album_control_screen.dart
