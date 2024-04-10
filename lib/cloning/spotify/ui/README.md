@@ -38,6 +38,11 @@
 ## choose_podcast_screen.dart
 <img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/01469bd6-0011-4d0d-ad61-c24b235dbd12">
 
+# 9. Home
+
+## home_screen.dart
+<img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/e1128eba-4f89-428d-aa77-cb98c8cf9438">
+
 # 3. Album Control
 
 ## album_control_screen.dart
