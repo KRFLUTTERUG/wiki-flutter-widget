@@ -11,6 +11,7 @@ import 'cloning/spotify/data/model/album_track.dart';
 import 'cloning/spotify/ui/album_control_screen.dart';
 import 'cloning/spotify/ui/album_radio_screen.dart';
 import 'cloning/spotify/ui/albumview_screen.dart';
+import 'cloning/spotify/ui/listening_on_screen.dart';
 import 'package/20231011/counterprovider/main_counterprovider.dart';
 import 'package/20231011/userprovider/main_userprovider.dart';
 
@@ -52,6 +53,6 @@ class MyApp extends StatelessWidget {
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
           useMaterial3: true,
         ),
-        home: SongControlScreen(trackName: dummyTrackName, color: dummyColor, singer: dummySinger, albumImage: dummyAlbumImage,));
+        home: ListeningOn(),);
   }
 }
