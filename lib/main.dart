@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_native_splash/flutter_native_splash.dart';
+import 'package:wiki_flutter_examples/cloning/spotify/ui/song_control_screen.dart';
 import 'package:wiki_flutter_examples/package/20231025/fl_chart.dart';
 import 'package:wiki_flutter_examples/widget/20210123/lib/20210123.dart';
 import 'package:wiki_flutter_examples/widget/20230602/draggable.dart';
@@ -9,6 +10,7 @@ import 'cloning/spotify/data/model/album.dart';
 import 'cloning/spotify/data/model/album_track.dart';
 import 'cloning/spotify/ui/album_control_screen.dart';
 import 'cloning/spotify/ui/album_radio_screen.dart';
+import 'cloning/spotify/ui/albumview_screen.dart';
 import 'package/20231011/counterprovider/main_counterprovider.dart';
 import 'package/20231011/userprovider/main_userprovider.dart';
 
@@ -39,12 +41,17 @@ class MyApp extends StatelessWidget {
       [Colors.blue, Colors.green, Colors.red], // Example color palette
     );
 
+    String dummyTrackName = "Dummy Track";
+    Color dummyColor = Colors.blue;
+    String dummySinger = "Dummy Singer";
+    String dummyAlbumImage = "Offset-Mix.jpg";
+
     return MaterialApp(
         title: 'Widget Examples',
         theme: ThemeData(
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
           useMaterial3: true,
         ),
-        home: AlbumRadioScreen());
+        home: SongControlScreen(trackName: dummyTrackName, color: dummyColor, singer: dummySinger, albumImage: dummyAlbumImage,));
   }
 }
