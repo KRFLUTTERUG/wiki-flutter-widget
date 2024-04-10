@@ -23,6 +23,11 @@
 ## choose_gender_screen.dart
 <img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/278a6838-9f28-4d9a-aaa8-77817007cad7">
 
+# 6. Create Name
+
+## create_name_screen.dart
+<img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/cb3da6fd-7c02-4fcb-875f-99e31f4d06c0">
+
 # 3. Album Control
 
 ## album_control_screen.dart
