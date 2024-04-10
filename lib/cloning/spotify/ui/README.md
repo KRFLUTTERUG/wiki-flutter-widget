@@ -43,6 +43,11 @@
 ## home_screen.dart
 <img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/e1128eba-4f89-428d-aa77-cb98c8cf9438">
 
+# 10. Playlist Search
+
+## playlist_search_screen.dart
+<img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/4e392269-2488-45e3-a87b-d272be5ca81a">
+
 # 3. Album Control
 
 ## album_control_screen.dart
