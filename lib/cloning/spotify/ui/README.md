@@ -68,6 +68,11 @@
 ## setting_screen.dart
 <img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/f25cac56-cb1b-47e9-af61-7901b6113ca6">
 
+# 15. Profile
+
+## profile_screen.dart
+<img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/63682501-591a-4a2a-943d-d42a8431261f">
+
 # 3. Album Control
 
 ## album_control_screen.dart
