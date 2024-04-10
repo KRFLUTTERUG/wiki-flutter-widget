@@ -13,6 +13,11 @@
 ## create_email_screen.dart
 <img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/a7aa77b8-0f98-4a4b-b814-c12aee49f85c">
 
+# 4. Create Password
+
+## create_email_screen.dart
+<img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/a7fe2793-8d75-4473-92e0-3877c286a1f5">
+
 # 3. Album Control
 
 ## album_control_screen.dart
