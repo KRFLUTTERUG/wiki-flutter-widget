@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_native_splash/flutter_native_splash.dart';
+import 'package:wiki_flutter_examples/cloning/spotify/ui/lyrics_section.dart';
 import 'package:wiki_flutter_examples/cloning/spotify/ui/song_control_screen.dart';
 import 'package:wiki_flutter_examples/package/20231025/fl_chart.dart';
 import 'package:wiki_flutter_examples/widget/20210123/lib/20210123.dart';
@@ -12,6 +13,7 @@ import 'cloning/spotify/ui/album_control_screen.dart';
 import 'cloning/spotify/ui/album_radio_screen.dart';
 import 'cloning/spotify/ui/albumview_screen.dart';
 import 'cloning/spotify/ui/listening_on_screen.dart';
+import 'cloning/spotify/ui/lyrics_screen.dart';
 import 'package/20231011/counterprovider/main_counterprovider.dart';
 import 'package/20231011/userprovider/main_userprovider.dart';
 
@@ -53,6 +55,6 @@ class MyApp extends StatelessWidget {
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
           useMaterial3: true,
         ),
-        home: ListeningOn(),);
+        home: LyricsSection(),);
   }
 }

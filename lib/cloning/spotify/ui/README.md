@@ -23,6 +23,11 @@
 ## listening_on_screen.dart
 <img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/ed9b3196-06d2-4ad5-b723-03e53e691535">
 
+# 6. Lyrics Section
+
+## lyrics_section.dart
+<img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/20605500-fffc-4851-aa26-001004331333">
+
 
 
 
