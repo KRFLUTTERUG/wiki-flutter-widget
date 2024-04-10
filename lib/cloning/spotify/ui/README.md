@@ -1,4 +1,14 @@
-# 1. Album Control
+# 1. Splash
+
+## splash_screen.dart
+<img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/8a52fe61-6f40-4a80-b36d-832be459f14d">
+
+# 2. OnBoarding
+
+## onboarding_screen.dart
+<img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/416a7582-0b8d-4124-bccb-fc2fef05a097">
+
+# 3. Album Control
 
 ## album_control_screen.dart
 <img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/751ddd0e-e7f8-4475-947d-dd8953c5651a">
@@ -38,7 +48,5 @@
 ## track_view_screen.dart
 <img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/cb08880a-3751-4377-afc9-48da28abdd89">
 
-# 9. Splash
 
-## splash_screen.dart
-<img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/8a52fe61-6f40-4a80-b36d-832be459f14d">
+
