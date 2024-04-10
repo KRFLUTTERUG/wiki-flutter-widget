@@ -73,6 +73,11 @@
 ## profile_screen.dart
 <img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/63682501-591a-4a2a-943d-d42a8431261f">
 
+# 16. Album View
+
+## albumview_screen.dart
+<img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/9d2fea9c-7bcc-4d41-b724-efce676e4ac7">
+
 # 3. Album Control
 
 ## album_control_screen.dart
