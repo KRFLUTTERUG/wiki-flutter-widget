@@ -15,7 +15,7 @@
 
 # 4. Create Password
 
-## create_email_screen.dart
+## create_password_screen.dart
 <img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/a7fe2793-8d75-4473-92e0-3877c286a1f5">
 
 # 5. Choose Gender
@@ -27,6 +27,11 @@
 
 ## create_name_screen.dart
 <img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/cb3da6fd-7c02-4fcb-875f-99e31f4d06c0">
+
+# 7. Choose Artist
+
+## choose_artist_screen.dart
+<img height="24%" width="24%" src="https://github.com/KRFLUTTERUG/wiki-flutter-widget/assets/17956765/fd8276ad-d83f-42b6-879f-28fab533ec7b">
 
 # 3. Album Control
 
