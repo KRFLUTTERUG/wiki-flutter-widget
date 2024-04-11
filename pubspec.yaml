@@ -63,9 +63,9 @@ flutter:
     - images/cloning/spotify/chill/
     - images/cloning/nike/
     - assets/video/
-    - assets/shoeappui/images
+    - assets/shoeappui/images/
     - assets/shoeappui/images/coloroptions/
-    - assets/shoeappui/files
+    - assets/shoeappui/files/
 
   fonts:
     - family: AM
