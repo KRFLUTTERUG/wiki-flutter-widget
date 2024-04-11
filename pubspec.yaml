@@ -29,6 +29,15 @@ dependencies:
   hooks_riverpod: ^1.0.3
   simple_animations: ^5.0.2
   get: ^4.6.5
+  firebase_auth: ^4.2.6
+  firebase_core: ^2.5.0
+  google_sign_in: ^5.4.4
+  font_awesome_flutter: ^10.3.0
+  flutter_svg: ^1.1.5
+  pinput: ^2.2.18
+  readmore: ^2.1.0
+  shared_preferences: ^2.0.16
+  flutter_image_slideshow: ^0.1.4
   
 dev_dependencies:
   flutter_test:
@@ -54,6 +63,9 @@ flutter:
     - images/cloning/spotify/chill/
     - images/cloning/nike/
     - assets/video/
+    - assets/shoeappui/images
+    - assets/shoeappui/images/coloroptions/
+    - assets/shoeappui/files
 
   fonts:
     - family: AM
@@ -63,6 +75,14 @@ flutter:
     - family: AB
       fonts:
         - asset: assets/fonts/Avenir Next LT Pro Bold.otf
+
+    - family: PoiretOne
+      fonts:
+        - asset: assets/shoeappui/fonts/PoiretOne-Regular.ttf
+
+    - family: Questrial
+      fonts:
+        - asset: assets/shoeappui/fonts/Questrial-Regular.ttf
 
 flutter_native_splash:
   color: "#42a5f5"
